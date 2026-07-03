@@ -1,4 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 💻 Programmer Salary Predictor
+
+🚀 **Live Demo:** https://programmer-salary-predictor.streamlit.app/
 
 ## 📌 Project Overview
 
@@ -117,6 +124,28 @@ The final model was deployed using **Streamlit** to provide an interactive salar
 ### Deployment
 
 * Streamlit
+
+## 🌐 Live Demo
+
+Try the deployed Streamlit application and predict programmer salaries instantly:
+
+**Live Application:**
+https://programmer-salary-predictor.streamlit.app/
+
+The web application allows users to enter programmer-related information such as:
+
+* Job Title
+* Years of Experience
+* Education Level
+* Skills Count
+* Industry
+* Company Size
+* Location
+* Remote Work Status
+* Certifications
+
+The model then provides an instant salary prediction based on the trained Machine Learning model.
+
 
 ---
 
